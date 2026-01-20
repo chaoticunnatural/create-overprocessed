@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package dev.wren.overprocessed;
 
 import com.mojang.logging.LogUtils;
 import com.simibubi.create.foundation.data.CreateRegistrate;
